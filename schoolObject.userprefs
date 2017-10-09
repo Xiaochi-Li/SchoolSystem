@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{50A2E75D-EC23-4C27-B7BC-87C400D10280}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="schoolObject/Properties/School.cs">
+    <Files>
+      <File FileName="schoolObject/schoolSystem.cs" Line="13" Column="1" />
+      <File FileName="schoolObject/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="schoolObject/Properties/School.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.schoolSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

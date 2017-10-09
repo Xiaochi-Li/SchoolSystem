@@ -1,0 +1,5 @@
+/Users/lixiaochi/Documents/study/jiangrenquan/作业/07Csharp/schoolObject/schoolObject/bin/Debug/schoolObject.exe
+/Users/lixiaochi/Documents/study/jiangrenquan/作业/07Csharp/schoolObject/schoolObject/bin/Debug/schoolObject.pdb
+/Users/lixiaochi/Documents/study/jiangrenquan/作业/07Csharp/schoolObject/schoolObject/obj/x86/Debug/schoolSystem.csproj.CoreCompileInputs.cache
+/Users/lixiaochi/Documents/study/jiangrenquan/作业/07Csharp/schoolObject/schoolObject/obj/x86/Debug/schoolObject.exe
+/Users/lixiaochi/Documents/study/jiangrenquan/作业/07Csharp/schoolObject/schoolObject/obj/x86/Debug/schoolObject.pdb
